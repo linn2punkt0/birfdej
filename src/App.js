@@ -90,6 +90,7 @@ const Gift = styled.div`
     font-size: 58px;
     font-weight: normal;
     margin: 35px 0 0 0;
+    overflow: visible;
   }
 
   & > h3 {
