@@ -62,6 +62,7 @@ const Hero = styled.div`
     font-family: "Parisienne", cursive;
     font-size: 65px;
     font-weight: normal;
+    overflow: visible;
   }
 
   .gradient {
@@ -90,7 +91,6 @@ const Gift = styled.div`
     font-size: 58px;
     font-weight: normal;
     margin: 35px 0 0 0;
-    overflow: visible;
   }
 
   & > h3 {
