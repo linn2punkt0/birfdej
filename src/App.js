@@ -6,7 +6,7 @@ import "./App.css";
 import HAK from "./images/HAK.png";
 import Norda from "./images/norda.png";
 import Tranquilo from "./images/tranquilo.png";
-import Alberts from "./images/alberts.webp";
+import Alberts from "./images/alberts.png";
 
 const StyledApp = styled.div`
   overflow: hidden;
