@@ -104,7 +104,7 @@ const Gift = styled.div`
     overflow: hidden;
     background: linear-gradient(-45deg, #000, #fff, #000);
     background-repeat: no-repeat;
-    background-size: 30%;
+    background-size: 30% 100%;
     animation: animate 3s linear infinite;
     -webkit-animation: animate 3s linear infinite;
     -webkit-background-clip: text;
