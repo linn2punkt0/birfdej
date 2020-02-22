@@ -63,6 +63,8 @@ const Hero = styled.div`
     font-size: 65px;
     font-weight: normal;
     overflow: visible;
+    width: 100%;
+    text-align: right;
   }
 
   .gradient {
@@ -104,6 +106,7 @@ const Gift = styled.div`
     background-repeat: no-repeat;
     background-size: 30%;
     animation: animate 3s linear infinite;
+    -webkit-animation: animate 3s linear infinite;
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: rgba(255, 255, 255, 0.8);
